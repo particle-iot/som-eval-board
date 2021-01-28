@@ -1,0 +1,18 @@
+2020/2/28
+M2EVB change list:
+
+1.Change the stand-off package,the stand-off hole size is 3.6mm.The pcb package hole size is 3.75mm.
+
+2.change silkscreen Font into vector
+
+3.Change silkscreen `UBLOX USB` to `Cellular-USB`
+
+4.Add silkscreen `SOM AREA`
+
+5.Connect unused pins on M.2 to the header,Including these signals:
+SOM0,SOM1,SOM12~SOM18.
+
+6.Change the 60pin of the 60pin female connector from NC to SOM9, 
+and 59pin from SOM9 to GND for easy connection with SIM adapter
+
+7.Change the SMA connector silk screen to "ANTENNA_1", "ANTENNA_2", "V1.1" & "CELLULAR_USB"

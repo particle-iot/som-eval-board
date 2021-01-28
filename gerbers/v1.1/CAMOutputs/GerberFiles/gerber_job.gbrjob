@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-03-17T08:23:45Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.99,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "SOM EVAL BOARD V1.10"
+        },
+        "Owner": "Mohit Bohite <mohit@particle.io>",
+        "Size": {
+            "X": 125,
+            "Y": 90
+        }
+    }
+}
